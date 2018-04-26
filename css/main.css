@@ -247,6 +247,7 @@ h3 {
 	background-color: #4AA0D5;
 	border: 1px dashed rgba(255,255,255,.5);
 	padding: 0 15px;
+	text-decoration: none;
 }
 
 .choose-prod-btn a:hover {
