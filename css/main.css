@@ -148,8 +148,46 @@ h3 {
 }
 
 /* Choose Matras */
+.choose-prod h2 {
+	padding-top: 30px;
+}
+
+.choose-prod ul li {
+	list-style-type: disc;
+}
+
 .list-style-none {
 	list-style: none;
+}
+
+.choose-prod table {
+	width: 100%;
+	font-size: 10px;
+	background-color: #fff;
+	border: 1px solid #d5d5d5;
+}
+
+.choose-prod .bg-blue {
+	color: #fff;
+	background-color: #4EA1D3;
+}
+
+.choose-prod .bg-yellow {
+	background-color: #fff681;
+}
+
+.choose-prod .bg-green {
+	background-color: #61da60;
+}
+
+.choose-prod .bg-red {
+	background-color: #fdbfbf;
+}
+
+.choose-prod table td {
+	border: 1px solid #d5d5d5;
+	text-align: center;
+	padding: 5px 0;
 }
 
 .choose-prod-header img {
