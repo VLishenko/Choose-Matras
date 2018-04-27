@@ -165,6 +165,7 @@ h3 {
 	font-size: 10px;
 	background-color: #fff;
 	border: 1px solid #d5d5d5;
+	border-collapse: collapse;
 }
 
 .choose-prod .bg-blue {
